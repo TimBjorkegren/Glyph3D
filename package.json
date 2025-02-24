@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "open3d": "^0.2.4"
+  }
+}

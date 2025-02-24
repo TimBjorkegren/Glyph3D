@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+*.egg-info/
+*.egg
+*.pyo
+*.pyc
+*.pyd
+
+# Node.js
+node_modules/
+
+# System files
+.DS_Store       # macOS
+Thumbs.db       # Windows
+Desktop.ini     # Windows
+
+# IDEs and text editors
+.vscode/
+.idea/
+*.swp           # Vim swap files
+*.swo           # Vim swap files
+
+# Log files
+*.log
+
+# Build output
+/dist/
+/build/
+/*.egg
+*.tgz
+
+# Dependency directories
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variable files
+.env
+.env.local
+.env.*.local
+
+# Package lock files
+package-lock.json
+yarn.lock
+
+# Miscellaneous
+*.bak
+*.tmp
